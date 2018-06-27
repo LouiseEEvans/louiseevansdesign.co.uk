@@ -1,62 +1,62 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://louiseeevans.github.io/portfolio,http://louiseevansdesign.co.uk" resolutions="1x,2x" timestamp="1503663614517">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://louiseevans.design,http://louiseeevans.github.io/portfolio,http://louiseevansdesign.co.uk" resolutions="1x,2x" timestamp="1530095544959">
   <folder name="css">
-    <file name="site_global.css" crc="344218597"/>
-    <file name="master_all.css" crc="303215636" ref="handdrawn_type:about:avocado_cookbook:lunchbox_salads:dome_company:watercolour:play:looking_reading:bitsoundspace:soft_hard:maplewood_property:exchange:lets_cook:index:jane_austen_cookbook:londons_larder:bite_knife:betty_magazine:ten_paces_behind:the_grapevine:tilde_wip"/>
-    <file name="nomq_preview_master_all.css" crc="3824530138" ref="handdrawn_type:about:avocado_cookbook:lunchbox_salads:dome_company:watercolour:play:looking_reading:bitsoundspace:soft_hard:maplewood_property:exchange:lets_cook:index:jane_austen_cookbook:londons_larder:bite_knife:betty_magazine:ten_paces_behind:the_grapevine:tilde_wip"/>
-    <file name="handdrawn_type.css" crc="4137700367" ref="handdrawn_type"/>
-    <file name="nomq_handdrawn_type.css" crc="179931451" ref="handdrawn_type"/>
-    <file name="about.css" crc="104940782" ref="about"/>
-    <file name="nomq_about.css" crc="4013366228" ref="about"/>
-    <file name="avocado_cookbook.css" crc="4121152526" ref="avocado_cookbook"/>
-    <file name="nomq_avocado_cookbook.css" crc="226096674" ref="avocado_cookbook"/>
-    <file name="lunchbox_salads.css" crc="4174314484" ref="lunchbox_salads"/>
-    <file name="nomq_lunchbox_salads.css" crc="245682446" ref="lunchbox_salads"/>
-    <file name="dome_company.css" crc="411179978" ref="dome_company"/>
-    <file name="nomq_dome_company.css" crc="3962895230" ref="dome_company"/>
-    <file name="watercolour.css" crc="60626988" ref="watercolour"/>
-    <file name="nomq_watercolour.css" crc="4017176130" ref="watercolour"/>
-    <file name="play.css" crc="261831157" ref="play"/>
-    <file name="nomq_play.css" crc="3769615891" ref="play"/>
-    <file name="looking_reading.css" crc="4032501724" ref="looking_reading"/>
-    <file name="nomq_looking_reading.css" crc="3844244562" ref="looking_reading"/>
-    <file name="bitsoundspace.css" crc="3985380211" ref="bitsoundspace"/>
-    <file name="nomq_bitsoundspace.css" crc="360212325" ref="bitsoundspace"/>
-    <file name="soft_hard.css" crc="4132465938" ref="soft_hard"/>
-    <file name="nomq_soft_hard.css" crc="107651990" ref="soft_hard"/>
-    <file name="maplewood_property.css" crc="462724335" ref="maplewood_property"/>
-    <file name="nomq_maplewood_property.css" crc="23710346" ref="maplewood_property"/>
-    <file name="exchange.css" crc="323523708" ref="exchange"/>
-    <file name="nomq_exchange.css" crc="381745674" ref="exchange"/>
-    <file name="lets_cook.css" crc="166314994" ref="lets_cook"/>
-    <file name="nomq_lets_cook.css" crc="28430267" ref="lets_cook"/>
-    <file name="index.css" crc="434711963" ref="index"/>
-    <file name="nomq_index.css" crc="3802393027" ref="index"/>
-    <file name="jane_austen_cookbook.css" crc="3976863608" ref="jane_austen_cookbook"/>
-    <file name="nomq_jane_austen_cookbook.css" crc="4136061593" ref="jane_austen_cookbook"/>
-    <file name="londons_larder.css" crc="3905012400" ref="londons_larder"/>
-    <file name="nomq_londons_larder.css" crc="39003029" ref="londons_larder"/>
-    <file name="bite_knife.css" crc="3844622027" ref="bite_knife"/>
-    <file name="nomq_bite_knife.css" crc="3779643471" ref="bite_knife"/>
-    <file name="betty_magazine.css" crc="4126521303" ref="betty_magazine"/>
-    <file name="nomq_betty_magazine.css" crc="121558276" ref="betty_magazine"/>
-    <file name="ten_paces_behind.css" crc="140105254" ref="ten_paces_behind"/>
-    <file name="nomq_ten_paces_behind.css" crc="45875853" ref="ten_paces_behind"/>
-    <file name="the_grapevine.css" crc="3901532841" ref="the_grapevine"/>
-    <file name="nomq_the_grapevine.css" crc="4115625994" ref="the_grapevine"/>
-    <file name="tilde_wip.css" crc="4281391305" ref="tilde_wip"/>
-    <file name="nomq_tilde_wip.css" crc="4049163895" ref="tilde_wip"/>
+    <file name="site_global.css" crc="3794512459"/>
+    <file name="master_all.css" crc="3868982447" ref="about:betty_magazine:bite_knife:play:ten_paces_behind:soft_hard:jane_austen_cookbook:watercolour:bitsoundspace:looking_reading:lets_cook:maplewood_property:index:exchange:londons_larder:tilde_wip:handdrawn_type:the_grapevine:dome_company:lunchbox_salads:avocado_cookbook"/>
+    <file name="nomq_preview_master_all.css" crc="3824530138" ref="about:betty_magazine:bite_knife:play:ten_paces_behind:soft_hard:jane_austen_cookbook:watercolour:bitsoundspace:looking_reading:lets_cook:maplewood_property:index:exchange:londons_larder:tilde_wip:handdrawn_type:the_grapevine:dome_company:lunchbox_salads:avocado_cookbook"/>
+    <file name="about.css" crc="3929882533" ref="about"/>
+    <file name="nomq_about.css" crc="3982044269" ref="about"/>
+    <file name="betty_magazine.css" crc="4268501189" ref="betty_magazine"/>
+    <file name="nomq_betty_magazine.css" crc="3910754299" ref="betty_magazine"/>
+    <file name="bite_knife.css" crc="451190343" ref="bite_knife"/>
+    <file name="nomq_bite_knife.css" crc="262055423" ref="bite_knife"/>
+    <file name="play.css" crc="60467907" ref="play"/>
+    <file name="nomq_play.css" crc="3933344988" ref="play"/>
+    <file name="ten_paces_behind.css" crc="238136866" ref="ten_paces_behind"/>
+    <file name="nomq_ten_paces_behind.css" crc="3864827438" ref="ten_paces_behind"/>
+    <file name="soft_hard.css" crc="43496461" ref="soft_hard"/>
+    <file name="nomq_soft_hard.css" crc="210564000" ref="soft_hard"/>
+    <file name="jane_austen_cookbook.css" crc="391307039" ref="jane_austen_cookbook"/>
+    <file name="nomq_jane_austen_cookbook.css" crc="3874845943" ref="jane_austen_cookbook"/>
+    <file name="watercolour.css" crc="4063969341" ref="watercolour"/>
+    <file name="nomq_watercolour.css" crc="445116501" ref="watercolour"/>
+    <file name="bitsoundspace.css" crc="235600542" ref="bitsoundspace"/>
+    <file name="nomq_bitsoundspace.css" crc="193419091" ref="bitsoundspace"/>
+    <file name="looking_reading.css" crc="4197045591" ref="looking_reading"/>
+    <file name="nomq_looking_reading.css" crc="4017560" ref="looking_reading"/>
+    <file name="lets_cook.css" crc="3796873777" ref="lets_cook"/>
+    <file name="nomq_lets_cook.css" crc="513932892" ref="lets_cook"/>
+    <file name="maplewood_property.css" crc="3848354021" ref="maplewood_property"/>
+    <file name="nomq_maplewood_property.css" crc="13994166" ref="maplewood_property"/>
+    <file name="index.css" crc="449564152" ref="index"/>
+    <file name="nomq_index.css" crc="4149110605" ref="index"/>
+    <file name="exchange.css" crc="393112428" ref="exchange"/>
+    <file name="nomq_exchange.css" crc="4187068258" ref="exchange"/>
+    <file name="londons_larder.css" crc="4060914005" ref="londons_larder"/>
+    <file name="nomq_londons_larder.css" crc="3910163196" ref="londons_larder"/>
+    <file name="tilde_wip.css" crc="361695960" ref="tilde_wip"/>
+    <file name="nomq_tilde_wip.css" crc="4003150811" ref="tilde_wip"/>
+    <file name="handdrawn_type.css" crc="92924671" ref="handdrawn_type"/>
+    <file name="nomq_handdrawn_type.css" crc="434547830" ref="handdrawn_type"/>
+    <file name="the_grapevine.css" crc="435506228" ref="the_grapevine"/>
+    <file name="nomq_the_grapevine.css" crc="3920256636" ref="the_grapevine"/>
+    <file name="dome_company.css" crc="92165215" ref="dome_company"/>
+    <file name="nomq_dome_company.css" crc="210544200" ref="dome_company"/>
+    <file name="lunchbox_salads.css" crc="4039820149" ref="lunchbox_salads"/>
+    <file name="nomq_lunchbox_salads.css" crc="35266942" ref="lunchbox_salads"/>
+    <file name="avocado_cookbook.css" crc="4144392483" ref="avocado_cookbook"/>
+    <file name="nomq_avocado_cookbook.css" crc="347180541" ref="avocado_cookbook"/>
   </folder>
   <folder name="assets">
-    <file name="bitsoundspaceword_v3.mov" crc="447825842" seo="true" mt="1496069271000"/>
+    <file name="bitsoundspaceword_v3.mov" crc="447825842" seo="true" mt="1503649993000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:play:about:betty_magazine:maplewood_property:dome_company:avocado_cookbook:the_grapevine:londons_larder:lets_cook:watercolour:lunchbox_salads:handdrawn_type:tilde_wip:bite_knife:soft_hard:looking_reading:bitsoundspace:ten_paces_behind:jane_austen_cookbook:exchange"/>
-    <file name="museutils.js" crc="4216313831" ref="index:play:about:betty_magazine:maplewood_property:dome_company:avocado_cookbook:the_grapevine:londons_larder:lets_cook:watercolour:lunchbox_salads:handdrawn_type:tilde_wip:bite_knife:soft_hard:looking_reading:bitsoundspace:ten_paces_behind:jane_austen_cookbook:exchange"/>
+    <file name="museutils.js" crc="340535759" ref="index:play:about:betty_magazine:maplewood_property:dome_company:avocado_cookbook:the_grapevine:londons_larder:lets_cook:watercolour:lunchbox_salads:handdrawn_type:tilde_wip:bite_knife:soft_hard:looking_reading:bitsoundspace:ten_paces_behind:jane_austen_cookbook:exchange"/>
     <file name="whatinput.js" crc="86476730" ref="index:play:about:betty_magazine:maplewood_property:dome_company:avocado_cookbook:the_grapevine:londons_larder:lets_cook:watercolour:lunchbox_salads:handdrawn_type:tilde_wip:bite_knife:soft_hard:looking_reading:bitsoundspace:ten_paces_behind:jane_austen_cookbook:exchange"/>
-    <file name="museconfig.js" crc="4177022356" ref="index:play:about:betty_magazine:maplewood_property:dome_company:avocado_cookbook:the_grapevine:londons_larder:lets_cook:watercolour:lunchbox_salads:handdrawn_type:tilde_wip:bite_knife:soft_hard:looking_reading:bitsoundspace:ten_paces_behind:jane_austen_cookbook:exchange"/>
-    <file name="jquery.watch.js" crc="460461809" ref="index:play:about:betty_magazine:maplewood_property:dome_company:avocado_cookbook:the_grapevine:londons_larder:lets_cook:watercolour:lunchbox_salads:handdrawn_type:tilde_wip:bite_knife:soft_hard:looking_reading:bitsoundspace:ten_paces_behind:jane_austen_cookbook:exchange"/>
-    <file name="jquery.museresponsive.js" crc="4055310269" ref="index:play:about:betty_magazine:maplewood_property:dome_company:avocado_cookbook:the_grapevine:londons_larder:lets_cook:watercolour:lunchbox_salads:handdrawn_type:tilde_wip:bite_knife:soft_hard:looking_reading:bitsoundspace:ten_paces_behind:jane_austen_cookbook:exchange"/>
-    <file name="require.js" crc="3951022091" ref="index:play:about:betty_magazine:maplewood_property:dome_company:avocado_cookbook:the_grapevine:londons_larder:lets_cook:watercolour:lunchbox_salads:handdrawn_type:tilde_wip:bite_knife:soft_hard:looking_reading:bitsoundspace:ten_paces_behind:jane_austen_cookbook:exchange"/>
+    <file name="museconfig.js" crc="310584261" ref="index:play:about:betty_magazine:maplewood_property:dome_company:avocado_cookbook:the_grapevine:londons_larder:lets_cook:watercolour:lunchbox_salads:handdrawn_type:tilde_wip:bite_knife:soft_hard:looking_reading:bitsoundspace:ten_paces_behind:jane_austen_cookbook:exchange"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:play:about:betty_magazine:maplewood_property:dome_company:avocado_cookbook:the_grapevine:londons_larder:lets_cook:watercolour:lunchbox_salads:handdrawn_type:tilde_wip:bite_knife:soft_hard:looking_reading:bitsoundspace:ten_paces_behind:jane_austen_cookbook:exchange"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:play:about:betty_magazine:maplewood_property:dome_company:avocado_cookbook:the_grapevine:londons_larder:lets_cook:watercolour:lunchbox_salads:handdrawn_type:tilde_wip:bite_knife:soft_hard:looking_reading:bitsoundspace:ten_paces_behind:jane_austen_cookbook:exchange"/>
+    <file name="require.js" crc="7928878" ref="index:play:about:betty_magazine:maplewood_property:dome_company:avocado_cookbook:the_grapevine:londons_larder:lets_cook:watercolour:lunchbox_salads:handdrawn_type:tilde_wip:bite_knife:soft_hard:looking_reading:bitsoundspace:ten_paces_behind:jane_austen_cookbook:exchange"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="400217008" ref="index"/>
@@ -66,34 +66,16 @@
     <file name="bettymag_cover_2x.jpg" crc="319458540" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="domecompany_cover.jpg" crc="308931658" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="domecompany_cover_2x.jpg" crc="119275009" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="grapevine_cover.jpg" crc="3906662491" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="grapevine_cover_2x.jpg" crc="4108162603" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="lets_cook_cover.jpg" crc="4230424550" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="lets_cook_cover_2x.jpg" crc="4208738309" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="lunchbox_cover.jpg" crc="154726333" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="lunchbox_cover_2x.jpg" crc="401225038" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="maplewood_cover.jpg" crc="390863158" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="maplewood_cover_2x.jpg" crc="4056158506" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="domecompany_cover.jpg" crc="61712256" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="domecompany_cover_2x.jpg" crc="3860991620" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="avocado_cover.jpg" crc="3957795932" seo="true" ref="index">
@@ -102,16 +84,34 @@
     <file name="avocado_cover_2x.jpg" crc="3927759728" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="grapevine_cover.jpg" crc="3906662491" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="grapevine_cover_2x.jpg" crc="4108162603" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="londons_larder_cover.jpg" crc="3882004185" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="londons_larder_cover_2x.jpg" crc="309213899" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="lets_cook_cover.jpg" crc="4230424550" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lets_cook_cover_2x.jpg" crc="4208738309" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="watercolour_cover.jpg" crc="4245361619" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="watercolour_cover_2x.jpg" crc="3961695850" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lunchbox_cover.jpg" crc="154726333" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lunchbox_cover_2x.jpg" crc="401225038" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="handtype_cover.jpg" crc="139562594" seo="true" ref="index">
@@ -126,34 +126,16 @@
     <file name="bettymag_cover386x290_2x.jpg" crc="230019016" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="domecompany_cover386x290.jpg" crc="3840072009" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="domecompany_cover386x290_2x.jpg" crc="1205304" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="grapevine_cover386x290.jpg" crc="4216742197" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="grapevine_cover386x290_2x.jpg" crc="495522926" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="lets_cook_cover386x290.jpg" crc="4080946445" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="lets_cook_cover386x290_2x.jpg" crc="4288917418" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="lunchbox_cover386x289.jpg" crc="4019246172" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="lunchbox_cover386x289_2x.jpg" crc="4169405285" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="maplewood_cover386x290.jpg" crc="351187413" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="maplewood_cover386x290_2x.jpg" crc="3912337840" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="domecompany_cover386x289.jpg" crc="4234551353" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="domecompany_cover386x289_2x.jpg" crc="90891747" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="avocado_cover386x290.jpg" crc="4203170820" seo="true" ref="index">
@@ -162,22 +144,40 @@
     <file name="avocado_cover386x290_2x.jpg" crc="3828145738" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="grapevine_cover386x290.jpg" crc="4216742197" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="grapevine_cover386x290_2x.jpg" crc="495522926" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="londons_larder_cover386x290.jpg" crc="3805812475" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="londons_larder_cover386x290_2x.jpg" crc="362404641" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="watercolour_cover386x289.jpg" crc="4038145113" seo="true" ref="index">
+    <file name="lets_cook_cover386x290.jpg" crc="4080946445" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="watercolour_cover386x289_2x.jpg" crc="283063432" seo="true" ref="index">
+    <file name="lets_cook_cover386x290_2x.jpg" crc="4288917418" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="handtype_cover386x289.jpg" crc="287196303" seo="true" ref="index">
+    <file name="watercolour_cover386x290.jpg" crc="4038145113" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="handtype_cover386x289_2x.jpg" crc="257242085" seo="true" ref="index">
+    <file name="watercolour_cover386x290_2x.jpg" crc="283063432" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lunchbox_cover386x289.jpg" crc="4019246172" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lunchbox_cover386x289_2x.jpg" crc="4169405285" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="handtype_cover386x290.jpg" crc="287196303" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="handtype_cover386x290_2x.jpg" crc="257242085" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="bettymag_cover385x289.jpg" crc="491485928" seo="true" ref="index">
@@ -192,10 +192,10 @@
     <file name="maplewood_cover385x289_2x.jpg" crc="443334494" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="domecompany_cover385x289.jpg" crc="3804983272" seo="true" ref="index">
+    <file name="domecompany_cover385x289.jpg" crc="158995381" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="domecompany_cover385x289_2x.jpg" crc="355751468" seo="true" ref="index">
+    <file name="domecompany_cover385x289_2x.jpg" crc="3996527863" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="avocado_cover385x289.jpg" crc="4003703522" seo="true" ref="index">
@@ -252,10 +252,10 @@
     <file name="maplewood_cover257x193_2x.jpg" crc="3771136488" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="domecompany_cover257x193.jpg" crc="361553520" seo="true" ref="index">
+    <file name="domecompany_cover257x193.jpg" crc="3916202008" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="domecompany_cover257x193_2x.jpg" crc="462661070" seo="true" ref="index">
+    <file name="domecompany_cover257x193_2x.jpg" crc="4095320382" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="avocado_cover257x193.jpg" crc="3890774896" seo="true" ref="index">
@@ -311,10 +311,21 @@
       <caption webpage="play" alt=""/>
       <caption webpage="play" alt=""/>
     </file>
+    <file name="biteofthek.jpg" crc="4266985899" seo="true" ref="play">
+      <caption webpage="play" alt=""/>
+    </file>
+    <file name="biteofthek_2x.jpg" crc="109036931" seo="true" ref="play">
+      <caption webpage="play" alt=""/>
+    </file>
     <file name="softhard_cover.jpg" crc="4230803786" seo="true" ref="play">
       <caption webpage="play" alt=""/>
     </file>
     <file name="softhard_cover_2x.jpg" crc="37281657" seo="true" ref="play">
+      <caption webpage="play" alt=""/>
+    </file>
+    <file name="looking-formerly_cover.gif" crc="357602601" seo="true" ref="play">
+      <caption webpage="play" alt=""/>
+      <caption webpage="play" alt=""/>
       <caption webpage="play" alt=""/>
     </file>
     <file name="bitsoundspace_cover.gif" crc="4241057671" seo="true" ref="play">
@@ -327,27 +338,16 @@
       <caption webpage="play" alt=""/>
       <caption webpage="play" alt=""/>
     </file>
-    <file name="jac_cover.jpg" crc="170185537" seo="true" ref="play">
-      <caption webpage="play" alt=""/>
-    </file>
-    <file name="jac_cover_2x.jpg" crc="483193848" seo="true" ref="play">
-      <caption webpage="play" alt=""/>
-    </file>
-    <file name="biteofthek.jpg" crc="4266985899" seo="true" ref="play">
-      <caption webpage="play" alt=""/>
-    </file>
-    <file name="biteofthek_2x.jpg" crc="109036931" seo="true" ref="play">
-      <caption webpage="play" alt=""/>
-    </file>
-    <file name="looking-formerly_cover.gif" crc="357602601" seo="true" ref="play">
-      <caption webpage="play" alt=""/>
-      <caption webpage="play" alt=""/>
-      <caption webpage="play" alt=""/>
-    </file>
     <file name="new_tiles3-crop-u465.jpg" crc="3828631128" seo="true" ref="play">
       <caption webpage="play" alt=""/>
     </file>
     <file name="new_tiles3-crop-u465_2x.jpg" crc="4106648725" seo="true" ref="play">
+      <caption webpage="play" alt=""/>
+    </file>
+    <file name="jac_cover.jpg" crc="170185537" seo="true" ref="play">
+      <caption webpage="play" alt=""/>
+    </file>
+    <file name="jac_cover_2x.jpg" crc="483193848" seo="true" ref="play">
       <caption webpage="play" alt=""/>
     </file>
     <file name="exchange_cover.jpg" crc="503838893" seo="true" ref="play">
@@ -356,28 +356,28 @@
     <file name="exchange_cover_2x.jpg" crc="3881282547" seo="true" ref="play">
       <caption webpage="play" alt=""/>
     </file>
-    <file name="softhard_cover369x277.jpg" crc="513542293" seo="true" ref="play">
-      <caption webpage="play" alt=""/>
-    </file>
-    <file name="softhard_cover369x277_2x.jpg" crc="259851931" seo="true" ref="play">
-      <caption webpage="play" alt=""/>
-    </file>
-    <file name="jac_cover369x277.jpg" crc="4011632848" seo="true" ref="play">
-      <caption webpage="play" alt=""/>
-    </file>
-    <file name="jac_cover369x277_2x.jpg" crc="456840351" seo="true" ref="play">
-      <caption webpage="play" alt=""/>
-    </file>
     <file name="biteofthek370x278.jpg" crc="4110373972" seo="true" ref="play">
       <caption webpage="play" alt=""/>
     </file>
     <file name="biteofthek370x278_2x.jpg" crc="359663839" seo="true" ref="play">
       <caption webpage="play" alt=""/>
     </file>
+    <file name="softhard_cover369x277.jpg" crc="513542293" seo="true" ref="play">
+      <caption webpage="play" alt=""/>
+    </file>
+    <file name="softhard_cover369x277_2x.jpg" crc="259851931" seo="true" ref="play">
+      <caption webpage="play" alt=""/>
+    </file>
     <file name="new_tiles3-crop-u4652.jpg" crc="436066721" seo="true" ref="play">
       <caption webpage="play" alt=""/>
     </file>
     <file name="new_tiles3-crop-u465_2x2.jpg" crc="3931750651" seo="true" ref="play">
+      <caption webpage="play" alt=""/>
+    </file>
+    <file name="jac_cover369x277.jpg" crc="4011632848" seo="true" ref="play">
+      <caption webpage="play" alt=""/>
+    </file>
+    <file name="jac_cover369x277_2x.jpg" crc="456840351" seo="true" ref="play">
       <caption webpage="play" alt=""/>
     </file>
     <file name="exchange_cover370x278.jpg" crc="4254181671" seo="true" ref="play">
@@ -1602,10 +1602,10 @@
     <file name="tilde_wip7_2x.jpg" crc="3885708641" seo="true" ref="tilde_wip">
       <caption webpage="tilde_wip" alt=""/>
     </file>
-    <file name="tilde_wip10.jpg" crc="533706724" seo="true" ref="tilde_wip">
+    <file name="tilde_wip10.jpg" crc="131616694" seo="true" ref="tilde_wip">
       <caption webpage="tilde_wip" alt=""/>
     </file>
-    <file name="tilde_wip10_2x.jpg" crc="4049296408" seo="true" ref="tilde_wip">
+    <file name="tilde_wip10_2x.jpg" crc="151225314" seo="true" ref="tilde_wip">
       <caption webpage="tilde_wip" alt=""/>
     </file>
     <file name="word_play.gif" crc="3856610135" seo="true" ref="tilde_wip">
@@ -1672,10 +1672,10 @@
     <file name="tilde_wip7754x566_2x.jpg" crc="333868951" seo="true" ref="tilde_wip">
       <caption webpage="tilde_wip" alt=""/>
     </file>
-    <file name="tilde_wip10370x277.jpg" crc="3881323290" seo="true" ref="tilde_wip">
+    <file name="tilde_wip10370x277.jpg" crc="218788935" seo="true" ref="tilde_wip">
       <caption webpage="tilde_wip" alt=""/>
     </file>
-    <file name="tilde_wip10370x277_2x.jpg" crc="365607170" seo="true" ref="tilde_wip">
+    <file name="tilde_wip10370x277_2x.jpg" crc="4170663910" seo="true" ref="tilde_wip">
       <caption webpage="tilde_wip" alt=""/>
     </file>
     <file name="tilde_wip9753x565.jpg" crc="352814845" seo="true" ref="tilde_wip">
@@ -1732,10 +1732,10 @@
     <file name="tilde_wip7384x288_2x.jpg" crc="233176078" seo="true" ref="tilde_wip">
       <caption webpage="tilde_wip" alt=""/>
     </file>
-    <file name="tilde_wip10384x289.jpg" crc="3795616622" seo="true" ref="tilde_wip">
+    <file name="tilde_wip10384x288.jpg" crc="3846086735" seo="true" ref="tilde_wip">
       <caption webpage="tilde_wip" alt=""/>
     </file>
-    <file name="tilde_wip10384x289_2x.jpg" crc="216140831" seo="true" ref="tilde_wip">
+    <file name="tilde_wip10384x288_2x.jpg" crc="397959157" seo="true" ref="tilde_wip">
       <caption webpage="tilde_wip" alt=""/>
     </file>
     <file name="tilde_wip9384x288.jpg" crc="10948098" seo="true" ref="tilde_wip">
@@ -1768,10 +1768,7 @@
     <file name="biteofthek5_2x.jpg" crc="3900603717" seo="true" ref="bite_knife">
       <caption webpage="bite_knife" alt=""/>
     </file>
-    <file name="biteofthek6.jpg" crc="494247505" seo="true" ref="bite_knife">
-      <caption webpage="bite_knife" alt=""/>
-    </file>
-    <file name="biteofthek6_2x.jpg" crc="242256298" seo="true" ref="bite_knife">
+    <file name="biteofthek6.jpg" crc="4157103873" seo="true" ref="bite_knife">
       <caption webpage="bite_knife" alt=""/>
     </file>
     <file name="biteofthek2754x566.jpg" crc="195200276" seo="true" ref="bite_knife">
@@ -1798,10 +1795,7 @@
     <file name="biteofthek5754x566_2x.jpg" crc="4244987122" seo="true" ref="bite_knife">
       <caption webpage="bite_knife" alt=""/>
     </file>
-    <file name="biteofthek6754x566.jpg" crc="3765109071" seo="true" ref="bite_knife">
-      <caption webpage="bite_knife" alt=""/>
-    </file>
-    <file name="biteofthek6754x566_2x.jpg" crc="4236839863" seo="true" ref="bite_knife">
+    <file name="biteofthek6754x566.jpg" crc="4048990728" seo="true" ref="bite_knife">
       <caption webpage="bite_knife" alt=""/>
     </file>
     <file name="biteofthek2384x288.jpg" crc="37108799" seo="true" ref="bite_knife">
@@ -1828,10 +1822,7 @@
     <file name="biteofthek5384x288_2x.jpg" crc="166778393" seo="true" ref="bite_knife">
       <caption webpage="bite_knife" alt=""/>
     </file>
-    <file name="biteofthek6384x288.jpg" crc="3793261644" seo="true" ref="bite_knife">
-      <caption webpage="bite_knife" alt=""/>
-    </file>
-    <file name="biteofthek6384x288_2x.jpg" crc="4041910535" seo="true" ref="bite_knife">
+    <file name="biteofthek6384x288.jpg" crc="4232756106" seo="true" ref="bite_knife">
       <caption webpage="bite_knife" alt=""/>
     </file>
     <file name="softhard.jpg" crc="198545587" seo="true" ref="soft_hard">
@@ -2062,10 +2053,10 @@
     <file name="new_tiles5-crop-u6396_2x.jpg" crc="72619204" seo="true" ref="ten_paces_behind">
       <caption webpage="ten_paces_behind" alt=""/>
     </file>
-    <file name="tiles33-crop-u6256.jpg" crc="276771428" seo="true" ref="ten_paces_behind">
+    <file name="tiles33-crop-u6256_2x-crop-u6256.jpg" crc="4081163016" seo="true" ref="ten_paces_behind">
       <caption webpage="ten_paces_behind" alt=""/>
     </file>
-    <file name="tiles33-crop-u6256_2x.jpg" crc="4173995194" seo="true" ref="ten_paces_behind">
+    <file name="tiles33-crop-u6256_2x-crop-u6256_2x.jpg" crc="3890024746" seo="true" ref="ten_paces_behind">
       <caption webpage="ten_paces_behind" alt=""/>
     </file>
     <file name="new_tiles9-crop-u6258.jpg" crc="82135815" seo="true" ref="ten_paces_behind">
@@ -2122,10 +2113,10 @@
     <file name="new_tiles5-crop-u6396_2x2.jpg" crc="535115683" seo="true" ref="ten_paces_behind">
       <caption webpage="ten_paces_behind" alt=""/>
     </file>
-    <file name="tiles33-crop-u62562.jpg" crc="271614113" seo="true" ref="ten_paces_behind">
+    <file name="tiles33-crop-u6256_2x-crop-u62562.jpg" crc="4245901669" seo="true" ref="ten_paces_behind">
       <caption webpage="ten_paces_behind" alt=""/>
     </file>
-    <file name="tiles33-crop-u6256_2x2.jpg" crc="3994134964" seo="true" ref="ten_paces_behind">
+    <file name="tiles33-crop-u6256_2x-crop-u6256_2x2.jpg" crc="4043523607" seo="true" ref="ten_paces_behind">
       <caption webpage="ten_paces_behind" alt=""/>
     </file>
     <file name="new_tiles9-crop-u62582.jpg" crc="3985075289" seo="true" ref="ten_paces_behind">
@@ -2182,10 +2173,10 @@
     <file name="new_tiles5-crop-u6396_2x3.jpg" crc="501123437" seo="true" ref="ten_paces_behind">
       <caption webpage="ten_paces_behind" alt=""/>
     </file>
-    <file name="tiles33-crop-u62563.jpg" crc="3968510653" seo="true" ref="ten_paces_behind">
+    <file name="tiles33-crop-u6256_2x-crop-u62563.jpg" crc="4274533754" seo="true" ref="ten_paces_behind">
       <caption webpage="ten_paces_behind" alt=""/>
     </file>
-    <file name="tiles33-crop-u6256_2x3.jpg" crc="121614405" seo="true" ref="ten_paces_behind">
+    <file name="tiles33-crop-u6256_2x-crop-u6256_2x3.jpg" crc="4135824919" seo="true" ref="ten_paces_behind">
       <caption webpage="ten_paces_behind" alt=""/>
     </file>
     <file name="new_tiles9-crop-u62583.jpg" crc="4231782648" seo="true" ref="ten_paces_behind">
@@ -2454,10 +2445,10 @@
     <file name="exchange_image7369x277_2x.jpg" crc="3836246648" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="exchange_image4370x277.jpg" crc="455906531" seo="true" ref="exchange">
+    <file name="exchange_image4370x278.jpg" crc="455906531" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="exchange_image4370x277_2x.jpg" crc="309426242" seo="true" ref="exchange">
+    <file name="exchange_image4370x278_2x.jpg" crc="309426242" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
     <file name="exchange_image2754x566.jpg" crc="3930456353" seo="true" ref="exchange">
@@ -2533,25 +2524,25 @@
       <caption webpage="exchange" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3802149838" seo="true" mt="1503663412803" redirect="true"/>
-  <file name="play.html" crc="411937711" seo="true" mt="1503663412803" redirect="true"/>
-  <file name="about.html" crc="3820481786" seo="true" mt="1503663412803" redirect="true"/>
-  <file name="betty_magazine.html" crc="4070170824" seo="true" mt="1503663412803" redirect="true"/>
-  <file name="maplewood_property.html" crc="4066547679" seo="true" mt="1503663412803" redirect="true"/>
-  <file name="dome_company.html" crc="19474102" seo="true" mt="1503663412803" redirect="true"/>
-  <file name="avocado_cookbook.html" crc="3804292085" seo="true" mt="1503663412803" redirect="true"/>
-  <file name="the_grapevine.html" crc="4284913982" seo="true" mt="1503663412803" redirect="true"/>
-  <file name="londons_larder.html" crc="4074046448" seo="true" mt="1503663412803" redirect="true"/>
-  <file name="lets_cook.html" crc="211329682" seo="true" mt="1503663412803" redirect="true"/>
-  <file name="watercolour.html" crc="4248739817" seo="true" mt="1503663412803" redirect="true"/>
-  <file name="lunchbox_salads.html" crc="124434356" seo="true" mt="1503663412803" redirect="true"/>
-  <file name="handdrawn_type.html" crc="4005454281" seo="true" mt="1503663412803" redirect="true"/>
-  <file name="tilde_wip.html" crc="40573498" seo="true" mt="1503663412803" redirect="true"/>
-  <file name="bite_knife.html" crc="4138030115" seo="true" mt="1503663412803" redirect="true"/>
-  <file name="soft_hard.html" crc="535983405" seo="true" mt="1503663412803" redirect="true"/>
-  <file name="looking_reading.html" crc="268739857" seo="true" mt="1503663412803" redirect="true"/>
-  <file name="bitsoundspace.html" crc="37815837" seo="true" mt="1503663412803" redirect="true"/>
-  <file name="ten_paces_behind.html" crc="4045563128" seo="true" mt="1503663412803" redirect="true"/>
-  <file name="jane_austen_cookbook.html" crc="4006052531" seo="true" mt="1503663412803" redirect="true"/>
-  <file name="exchange.html" crc="107867017" seo="true" mt="1503663412803" redirect="true"/>
+  <file name="index.html" crc="151915428" seo="true" mt="1530095347307" redirect="true"/>
+  <file name="play.html" crc="4009751351" seo="true" mt="1530095347307" redirect="true"/>
+  <file name="about.html" crc="4161113077" seo="true" mt="1530095347307" redirect="true"/>
+  <file name="betty_magazine.html" crc="284412487" seo="true" mt="1530095347307" redirect="true"/>
+  <file name="maplewood_property.html" crc="434533054" seo="true" mt="1530095347307" redirect="true"/>
+  <file name="dome_company.html" crc="3914224259" seo="true" mt="1530095347307" redirect="true"/>
+  <file name="avocado_cookbook.html" crc="3812587327" seo="true" mt="1530095347307" redirect="true"/>
+  <file name="the_grapevine.html" crc="4110777677" seo="true" mt="1530095347307" redirect="true"/>
+  <file name="londons_larder.html" crc="287632678" seo="true" mt="1530095347307" redirect="true"/>
+  <file name="lets_cook.html" crc="4042177733" seo="true" mt="1530095347307" redirect="true"/>
+  <file name="watercolour.html" crc="3880293557" seo="true" mt="1530095347307" redirect="true"/>
+  <file name="lunchbox_salads.html" crc="3916987494" seo="true" mt="1530095347307" redirect="true"/>
+  <file name="handdrawn_type.html" crc="119703087" seo="true" mt="1530095347307" redirect="true"/>
+  <file name="tilde_wip.html" crc="3820060876" seo="true" mt="1530095347307" redirect="true"/>
+  <file name="bite_knife.html" crc="3870162470" seo="true" mt="1530095347307" redirect="true"/>
+  <file name="soft_hard.html" crc="4255147708" seo="true" mt="1530095347307" redirect="true"/>
+  <file name="looking_reading.html" crc="472520929" seo="true" mt="1530095347307" redirect="true"/>
+  <file name="bitsoundspace.html" crc="4035636579" seo="true" mt="1530095347307" redirect="true"/>
+  <file name="ten_paces_behind.html" crc="3789056891" seo="true" mt="1530095347307" redirect="true"/>
+  <file name="jane_austen_cookbook.html" crc="231307691" seo="true" mt="1530095347307" redirect="true"/>
+  <file name="exchange.html" crc="335228612" seo="true" mt="1530095347307" redirect="true"/>
 </manifest>
