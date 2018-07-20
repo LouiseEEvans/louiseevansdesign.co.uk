@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://louiseevans.design/index.html</loc>
-    <lastmod>2018-07-18</lastmod>
+    <lastmod>2018-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -144,10 +144,10 @@
       <image:loc>http://louiseevans.design/images/handtype_cover386x290_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/getaheadcook_cover386x290.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/getaheadcook_cover386x289.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/getaheadcook_cover386x290_2x.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/getaheadcook_cover386x289_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://louiseevans.design/images/mbc_title_page_retouching_lowres_visual-crop-u102213.jpg</image:loc>
@@ -596,7 +596,7 @@
   </url>
   <url>
     <loc>http://louiseevans.design/play.html</loc>
-    <lastmod>2018-07-18</lastmod>
+    <lastmod>2018-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -606,7 +606,10 @@
       <image:loc>http://louiseevans.design/images/ma_site_cover_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/le_final_book.gif</image:loc>
+      <image:loc>http://louiseevans.design/images/final_work.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/final_work_2x.gif</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://louiseevans.design/images/wiggler_cover.gif</image:loc>
@@ -628,6 +631,9 @@
     </image:image>
     <image:image>
       <image:loc>http://louiseevans.design/images/looking-formerly_cover.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/looking-formerly_cover_2x.gif</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://louiseevans.design/images/bitsoundspace_cover.gif</image:loc>
@@ -1478,7 +1484,7 @@
   </url>
   <url>
     <loc>http://louiseevans.design/watercolour.html</loc>
-    <lastmod>2018-07-18</lastmod>
+    <lastmod>2018-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1530,6 +1536,12 @@
       <image:loc>http://louiseevans.design/images/watercolour4_2x.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://louiseevans.design/images/watercolour8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/watercolour8_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://louiseevans.design/images/watercolour1754x566.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1576,6 +1588,12 @@
     </image:image>
     <image:image>
       <image:loc>http://louiseevans.design/images/watercolour4369x278_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/watercolour8-crop-u1668.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/watercolour8-crop-u1668_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://louiseevans.design/images/watercolour1384x289.jpg</image:loc>
@@ -1626,10 +1644,10 @@
       <image:loc>http://louiseevans.design/images/watercolour4384x289_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/watercolour7384x289.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/watercolour8384x288.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/watercolour7384x289_2x.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/watercolour8384x288_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -2018,7 +2036,7 @@
   </url>
   <url>
     <loc>http://louiseevans.design/bite_knife.html</loc>
-    <lastmod>2018-07-18</lastmod>
+    <lastmod>2018-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2049,6 +2067,9 @@
       <image:loc>http://louiseevans.design/images/biteofthek6.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://louiseevans.design/images/biteofthek6_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://louiseevans.design/images/biteofthek2754x566.jpg</image:loc>
     </image:image>
     <image:image>
@@ -2076,6 +2097,9 @@
       <image:loc>http://louiseevans.design/images/biteofthek6754x566.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://louiseevans.design/images/biteofthek6754x566_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://louiseevans.design/images/biteofthek2384x288.jpg</image:loc>
     </image:image>
     <image:image>
@@ -2101,6 +2125,9 @@
     </image:image>
     <image:image>
       <image:loc>http://louiseevans.design/images/biteofthek6384x288.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/biteofthek6384x288_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -2255,67 +2282,103 @@
   </url>
   <url>
     <loc>http://louiseevans.design/looking_reading.html</loc>
-    <lastmod>2018-07-18</lastmod>
+    <lastmod>2018-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://louiseevans.design/images/looking-formerly.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/looking%20formerly.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/looking-formerly2.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/looking%20formerly_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/looking-formerly4.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/looking%20formerly2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/looking-formerly4_2x.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/looking%20formerly2_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/looking-formerly3.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/looking%20formerly4.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/looking-formerly5.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/looking%20formerly4_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/looking-formerly754x566.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/looking%20formerly3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/looking-formerly2754x566.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/looking%20formerly3_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/looking-formerly4754x567.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/looking%20formerly5.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/looking-formerly4754x567_2x.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/looking%20formerly5_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/looking-formerly3754x566.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/looking%20formerly754x566.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/looking-formerly5754x566.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/looking%20formerly754x566_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/looking-formerly384x289.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/looking%20formerly2754x566.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/looking-formerly2384x288.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/looking%20formerly2754x566_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/looking-formerly4384x289.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/looking%20formerly4-crop-u6000.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/looking-formerly4384x289_2x.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/looking%20formerly4-crop-u6000_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/looking-formerly3384x289.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/looking%20formerly3-crop-u5973.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/looking-formerly5384x289.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/looking%20formerly3-crop-u5973_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/looking%20formerly5754x566.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/looking%20formerly5754x566_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/looking%20formerly384x288.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/looking%20formerly384x288_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/looking%20formerly2384x288.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/looking%20formerly2384x288_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/looking%20formerly4384x288.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/looking%20formerly4384x288_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/looking%20formerly3384x288.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/looking%20formerly3384x288_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/looking%20formerly5384x288.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/looking%20formerly5384x288_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://louiseevans.design/ma_book.html</loc>
-    <lastmod>2018-07-18</lastmod>
+    <lastmod>2018-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2465,11 +2528,14 @@
   </url>
   <url>
     <loc>http://louiseevans.design/ma_site.html</loc>
-    <lastmod>2018-07-18</lastmod>
+    <lastmod>2018-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://louiseevans.design/images/ma_site1824x618.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/ma_site1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/ma_site1_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://louiseevans.design/images/systematic.gif</image:loc>
@@ -2484,7 +2550,13 @@
       <image:loc>http://louiseevans.design/images/ma_site1754x566.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://louiseevans.design/images/ma_site1754x566_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://louiseevans.design/images/ma_site1384x288.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/ma_site1384x288_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -2819,14 +2891,20 @@
   </url>
   <url>
     <loc>http://louiseevans.design/mary_berry_candice.html</loc>
-    <lastmod>2018-07-18</lastmod>
+    <lastmod>2018-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://louiseevans.design/images/mary_berry2824x618.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/mary_berry2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/mary_berry3824x618.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/mary_berry2_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/mary_berry3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/mary_berry3_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://louiseevans.design/images/mary_berry4404x303.jpg</image:loc>
@@ -2841,22 +2919,40 @@
       <image:loc>http://louiseevans.design/images/mary_berry5404x303_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/mary_berry6824x618.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/mary_berry6.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/mary_berry7824x618.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/mary_berry6_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/mary_berry8824x618.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/mary_berry7.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/candice_brown824x618.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/mary_berry7_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/mary_berry8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/mary_berry8_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/candice_brown.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/candice_brown_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://louiseevans.design/images/mary_berry2754x566.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://louiseevans.design/images/mary_berry2754x566_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://louiseevans.design/images/mary_berry3754x566.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/mary_berry3754x566_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://louiseevans.design/images/mary_berry4369x277.jpg</image:loc>
@@ -2874,19 +2970,37 @@
       <image:loc>http://louiseevans.design/images/mary_berry6754x566.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://louiseevans.design/images/mary_berry6754x566_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://louiseevans.design/images/mary_berry7754x566.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/mary_berry7754x566_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://louiseevans.design/images/mary_berry8754x566.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://louiseevans.design/images/mary_berry8754x566_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://louiseevans.design/images/candice_brown754x566.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/mary_berry2384x289.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/candice_brown754x566_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/mary_berry2384x288.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/mary_berry2384x288_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://louiseevans.design/images/mary_berry3384x288.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/mary_berry3384x288_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://louiseevans.design/images/mary_berry4384x288.jpg</image:loc>
@@ -2904,109 +3018,175 @@
       <image:loc>http://louiseevans.design/images/mary_berry6384x288.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://louiseevans.design/images/mary_berry6384x288_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://louiseevans.design/images/mary_berry7384x288.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/mary_berry7384x288_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://louiseevans.design/images/mary_berry8384x288.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://louiseevans.design/images/mary_berry8384x288_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://louiseevans.design/images/candice_brown384x288.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/candice_brown384x288_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://louiseevans.design/get_ahead_cook.html</loc>
-    <lastmod>2018-07-18</lastmod>
+    <lastmod>2018-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://louiseevans.design/images/getaheadcook2824x618.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/getaheadcook.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/getaheadcook3824x618.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/getaheadcook_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/getaheadcook4824x618.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/getaheadcook3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/getaheadcook5404x303.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/getaheadcook3_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/getaheadcook5404x303_2x.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/getaheadcook4.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/getaheadcook6404x303.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/getaheadcook4_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/getaheadcook6404x303_2x.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/getaheadcook5.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/getaheadcook7824x618.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/getaheadcook5_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/getaheadcook8824x618.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/getaheadcook6.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/getaheadcook9824x618.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/getaheadcook6_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/getaheadcook2754x566.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/getaheadcook7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/getaheadcook7_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/getaheadcook8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/getaheadcook8_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/getaheadcook9.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/getaheadcook9_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/getaheadcook754x566.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/getaheadcook754x566_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://louiseevans.design/images/getaheadcook3-crop-u10734.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://louiseevans.design/images/getaheadcook3-crop-u10734_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://louiseevans.design/images/getaheadcook4-crop-u10738.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/getaheadcook5-crop-u10747.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/getaheadcook4-crop-u10738_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/getaheadcook5-crop-u10747_2x.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/getaheadcook5369x277.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/getaheadcook6-crop-u10745.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/getaheadcook5369x277_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/getaheadcook6-crop-u10745_2x.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/getaheadcook6370x277.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/getaheadcook7-crop-u10736.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/getaheadcook6370x277_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/getaheadcook8-crop-u10740.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/getaheadcook7754x566.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/getaheadcook9-crop-u10742.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/getaheadcook7754x566_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/getaheadcook2384x289.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/getaheadcook8754x566.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/getaheadcook3-crop-u107342.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/getaheadcook8754x566_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/getaheadcook4-crop-u107382.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/getaheadcook9754x566.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/getaheadcook5-crop-u107472.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/getaheadcook9754x566_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/getaheadcook5-crop-u10747_2x2.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/getaheadcook384x288.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/getaheadcook6-crop-u107452.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/getaheadcook384x288_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/getaheadcook6-crop-u10745_2x2.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/getaheadcook3384x288.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/getaheadcook7-crop-u107362.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/getaheadcook3384x288_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/getaheadcook8-crop-u107402.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/getaheadcook4384x288.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/getaheadcook9-crop-u107422.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/getaheadcook4384x288_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/getaheadcook5384x288.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/getaheadcook5384x288_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/getaheadcook6384x288.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/getaheadcook6384x288_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/getaheadcook7384x288.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/getaheadcook7384x288_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/getaheadcook8384x288.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/getaheadcook8384x288_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/getaheadcook9384x288.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/getaheadcook9384x288_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
