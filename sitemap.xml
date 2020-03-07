@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://louiseevans.design/index.html</loc>
-    <lastmod>2020-03-05</lastmod>
+    <lastmod>2020-03-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://louiseevans.design/images/mbc_title_page_retouching_lowres_visual-crop-u10221_2x.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/mbc_title_page_retouching_lowres_visual-crop-u10221.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/mbc_title_page_retouching_lowres_visual-crop-u10221_2x_2x.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/mbc_title_page_retouching_lowres_visual-crop-u10221_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://louiseevans.design/images/avocado_cover.jpg</image:loc>
@@ -102,10 +102,10 @@
       <image:loc>http://louiseevans.design/images/waiip_cover_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/mbc_title_page_retouching_lowres_visual-crop-u10221_2x386x289.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/mbc_title_page_retouching_lowres_visual-crop-u102212.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/mbc_title_page_retouching_lowres_visual-crop-u10221_2x386x289_2x.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/mbc_title_page_retouching_lowres_visual-crop-u10221_2x2.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://louiseevans.design/images/avocado_cover386x290.jpg</image:loc>
@@ -198,10 +198,10 @@
       <image:loc>http://louiseevans.design/images/waiip_cover386x289_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/mbc_title_page_retouching_lowres_visual-crop-u10221_2x385x289.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/mbc_title_page_retouching_lowres_visual-crop-u102213.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/mbc_title_page_retouching_lowres_visual-crop-u10221_2x385x289_2x.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/mbc_title_page_retouching_lowres_visual-crop-u10221_2x3.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://louiseevans.design/images/avocado_cover385x289.jpg</image:loc>
@@ -214,6 +214,18 @@
     </image:image>
     <image:image>
       <image:loc>http://louiseevans.design/images/bettymag_cover385x289_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/blah_cover385x289.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/blah_cover385x289_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/flex_cover385x289.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/flex_cover385x289_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://louiseevans.design/images/maplewood_cover385x289.jpg</image:loc>
@@ -232,18 +244,6 @@
     </image:image>
     <image:image>
       <image:loc>http://louiseevans.design/images/londons_larder_cover385x289_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://louiseevans.design/images/flex_cover385x289.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://louiseevans.design/images/flex_cover385x289_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://louiseevans.design/images/blah_cover385x289.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://louiseevans.design/images/blah_cover385x289_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://louiseevans.design/images/htway_cover385x289.jpg</image:loc>
@@ -294,10 +294,10 @@
       <image:loc>http://louiseevans.design/images/waiip_cover385x289_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/mbc_title_page_retouching_lowres_visual-crop-u10221_2x257x193.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/mbc_title_page_retouching_lowres_visual-crop-u102214.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/mbc_title_page_retouching_lowres_visual-crop-u10221_2x257x193_2x.jpg</image:loc>
+      <image:loc>http://louiseevans.design/images/mbc_title_page_retouching_lowres_visual-crop-u10221_2x4.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://louiseevans.design/images/avocado_cover257x193.jpg</image:loc>
@@ -310,6 +310,18 @@
     </image:image>
     <image:image>
       <image:loc>http://louiseevans.design/images/bettymag_cover257x193_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/blah_cover257x193.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/blah_cover257x193_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/flex_cover257x193.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/flex_cover257x193_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://louiseevans.design/images/maplewood_cover257x193.jpg</image:loc>
@@ -328,18 +340,6 @@
     </image:image>
     <image:image>
       <image:loc>http://louiseevans.design/images/londons_larder_cover257x193_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://louiseevans.design/images/flex_cover257x193.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://louiseevans.design/images/flex_cover257x193_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://louiseevans.design/images/blah_cover257x193.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://louiseevans.design/images/blah_cover257x193_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://louiseevans.design/images/htway_cover257x193.jpg</image:loc>
@@ -638,7 +638,7 @@
   </url>
   <url>
     <loc>http://louiseevans.design/play.html</loc>
-    <lastmod>2020-02-09</lastmod>
+    <lastmod>2020-03-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -702,16 +702,16 @@
       <image:loc>http://louiseevans.design/images/exchange_cover_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://louiseevans.design/images/biteofthek370x278.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://louiseevans.design/images/biteofthek370x278_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://louiseevans.design/images/ma_site_cover370x277.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://louiseevans.design/images/ma_site_cover370x277_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/biteofthek370x278.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://louiseevans.design/images/biteofthek370x278_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://louiseevans.design/images/softhard_cover369x277.jpg</image:loc>
@@ -3488,7 +3488,7 @@
   </url>
   <url>
     <loc>http://louiseevans.design/blah.html</loc>
-    <lastmod>2020-02-09</lastmod>
+    <lastmod>2020-03-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -4010,7 +4010,7 @@
   </url>
   <url>
     <loc>http://louiseevans.design/assets/bitsoundspaceword_v3.mov</loc>
-    <lastmod>2018-07-20</lastmod>
+    <lastmod>2020-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
